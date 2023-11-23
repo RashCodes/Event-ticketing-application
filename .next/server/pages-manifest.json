@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/create/event": "pages/create/event.html",
+  "/api/email": "pages/api/email.js",
+  "/dashboard": "pages/dashboard.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/register": "pages/register.html",
+  "/events/[id]/[slug]": "pages/events/[id]/[slug].js",
+  "/register/[id]/[slug]": "pages/register/[id]/[slug].js",
+  "/404": "pages/404.html"
+}
